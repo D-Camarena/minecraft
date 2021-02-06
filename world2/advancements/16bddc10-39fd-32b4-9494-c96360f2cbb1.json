@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2021-02-01 07:23:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2020-10-19 18:31:31 +0000"
@@ -194,6 +200,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-09-30 03:11:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
+    "criteria": {
+      "has_the_recipe": "2021-02-01 07:23:55 +0000"
     },
     "done": true
   },
@@ -590,6 +602,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-10-24 18:42:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2021-01-27 22:59:36 +0000"
     },
     "done": true
   },
@@ -1884,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2021-01-31 04:46:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2021-01-05 03:56:12 +0000"
@@ -1995,6 +2019,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2020-10-01 04:54:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/spawner": {
+    "criteria": {
+      "spawner": "2021-02-01 08:34:46 +0000"
     },
     "done": true
   },
@@ -2169,6 +2199,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-09-30 00:50:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_seashelf": {
+    "criteria": {
+      "heart": "2021-01-22 05:15:03 +0000"
     },
     "done": true
   },
@@ -2502,6 +2538,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/altar": {
+    "criteria": {
+      "altar": "2021-02-01 07:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-10-19 19:23:57 +0000"
@@ -2511,6 +2553,12 @@
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2020-11-18 19:41:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "fire_sword": "2021-02-04 06:51:48 +0000"
     },
     "done": true
   },
@@ -3731,6 +3779,8 @@
       "cooked_mutton": "2020-09-30 02:11:20 +0000",
       "sweet_berries": "2020-10-07 17:57:42 +0000",
       "cooked_beef": "2020-09-29 07:06:14 +0000",
+      "beef": "2021-01-07 22:11:34 +0000",
+      "porkchop": "2021-01-07 22:06:31 +0000",
       "potato": "2020-09-29 06:38:59 +0000",
       "cooked_cod": "2020-10-17 13:45:44 +0000",
       "bread": "2020-09-29 06:53:52 +0000",
@@ -3762,6 +3812,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2020-11-18 05:01:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2021-02-03 00:55:32 +0000"
     },
     "done": true
   },
@@ -4722,6 +4778,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-09-29 06:23:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2021-02-04 06:57:02 +0000"
     },
     "done": true
   },
