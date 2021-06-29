@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2021-06-27 08:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2021-06-06 01:46:40 +0000"
@@ -152,6 +158,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2021-06-05 04:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-06-27 07:16:17 +0000"
     },
     "done": true
   },
@@ -425,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-06-27 23:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2021-06-06 01:46:40 +0000"
@@ -537,6 +555,7 @@
       "minecraft:creeper": "2021-06-07 02:48:23 +0000",
       "minecraft:slime": "2021-06-16 10:04:57 +0000",
       "minecraft:phantom": "2021-06-21 05:19:02 +0000",
+      "minecraft:zombified_piglin": "2021-06-26 17:23:41 +0000",
       "minecraft:zombie": "2021-06-05 03:07:16 +0000",
       "minecraft:drowned": "2021-06-07 20:49:04 +0000",
       "minecraft:zombie_villager": "2021-06-13 03:15:34 +0000"
@@ -618,6 +637,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2021-06-05 03:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2021-06-27 08:58:48 +0000"
     },
     "done": true
   },
@@ -756,6 +781,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-06-06 01:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-06-27 08:01:11 +0000"
     },
     "done": true
   },
@@ -1320,6 +1351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2021-06-27 08:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2021-06-07 21:41:15 +0000"
@@ -1389,6 +1426,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-06-08 04:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-06-27 22:15:51 +0000"
     },
     "done": true
   },
@@ -1551,6 +1594,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-06-05 03:17:58 +0000",
+      "cooked_mutton": "2021-06-29 02:46:01 +0000",
       "cooked_beef": "2021-06-07 03:59:48 +0000",
       "tropical_fish": "2021-06-07 02:39:22 +0000",
       "apple": "2021-06-05 02:31:04 +0000",
@@ -2432,6 +2476,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-06-07 14:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2021-06-27 16:07:14 +0000"
     },
     "done": true
   },
